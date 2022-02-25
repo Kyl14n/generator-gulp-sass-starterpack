@@ -1,0 +1,6 @@
+[submodule "generators/app/gulp-sass-starterpack"]
+	path = generators/app/gulp-sass-starterpack
+	url = https://github.com/Kyl14n/gulp-sass-starterpack
+[submodule "generators/app/templates"]
+	path = generators/app/templates
+	url = https://github.com/Kyl14n/gulp-sass-starterpack
