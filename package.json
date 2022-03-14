@@ -1,8 +1,8 @@
 {
   "name": "generator-gulp-sass-starterpack",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "description": "A Yeoman generator that creates a minimal Gulp and Sass front-end workflow.",
-  "homepage": "",
+  "homepage": "https://github.com/Kyl14n",
   "author": {
     "name": "Kylian",
     "email": "jackietuning1801@gmail.com",
@@ -49,6 +49,7 @@
     "gulp-postcss": "^9.0.1",
     "gulp-sass": "^5.1.0",
     "gulp-terser": "^2.1.0",
+    "patch-package": "^6.4.7",
     "postcss": "^8.4.7",
     "yeoman-generator": "^5.6.1",
     "yosay": "^2.0.2"
@@ -91,6 +92,6 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "Kylixn/generator-gulp-sass-starterpack",
+  "repository": "Kyl14n/generator-gulp-sass-starterpack",
   "license": "ISC"
 }
